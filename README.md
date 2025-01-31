@@ -16,8 +16,8 @@ Hi there! 👋 I'm Pablo del Álamo, a software engineer passionate about backen
 
 🎯 My Mission  
 
-Build solid, scalable, and high-performance systems that can handle real-world challenges efficiently.  
-Helping engineers level up by sharing insights on software architecture, cloud, and system design. Check out my content on LinkedIn!  
+ 🔹Build solid, scalable, and high-performance systems that can handle real-world challenges efficiently.  
+ 🔹Helping engineers level up by sharing insights on software architecture, cloud, and system design. Check out my content on LinkedIn!  
 
 💼 LinkedIn -> https://www.linkedin.com/in/pablo-del-alamo/  
 
