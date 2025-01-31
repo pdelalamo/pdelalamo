@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Pablo del Álamo, a software engineer passionate about backend development, software architecture, and cloud computing. I love building scalable, efficient, and robust systems while sharing my knowledge with the dev community.
 
 🛠️ Tech Stack
-💻 Backend: Java, Java EE, Spring, Spring Boot, Python
+- 💻 Backend: Java, Java EE, Spring, Spring Boot, Python
 👀 Frontend: Angular, Typescript, React Native, HTML, CSS
 ☁️ Cloud: AWS
 📡 APIs & Distributed Systems: Kafka, REST, Microservices
